@@ -1,6 +1,6 @@
 import React from 'react';
-import { FileText, GlobeIcon, UtensilsCrossed } from 'lucide-react';
-import { Header, Footer, Button } from '../../components/ui';
+import { FileText, GlobeIcon } from 'lucide-react';
+import { Footer, Button } from '../../components/ui';
 import logoSiracusa from '../../assets/images/logo-siracusa.jpg';
 
 const HomePage: React.FC = () => {

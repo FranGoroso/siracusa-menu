@@ -1,8 +1,8 @@
 import React, { useRef, useState, useEffect } from 'react';
-import { ChevronLeft, ChevronUp, Home, UtensilsCrossed, Menu } from 'lucide-react';
+import { ChevronUp, Home, Menu } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { MenuData } from '../types';
-import { Header, Footer, Button } from '../../../components/ui';
+import { Footer } from '../../../components/ui';
 import MenuSection from './MenuSection';
 import logoSiracusa from '../../../assets/images/logo-siracusa.jpg';
 
